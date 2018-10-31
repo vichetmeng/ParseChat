@@ -55,7 +55,7 @@ class ChatViewController: UIViewController, UITableViewDelegate, UITableViewData
             } else {
                 cell.messageLabel.text = ""
                 cell.authorLabel.text = ""
-                cell.bubbleView.backgroundColor = UIColor.clear
+                //cell.bubbleView.backgroundColor = UIColor.clear
             }
         }
         
